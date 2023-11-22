@@ -1,16 +1,16 @@
-| Group        | Class        | Year | Params | Documents       | Source Code      |
-| ------------ | ------------ | ---- | ------ | --------------- | ---------------- |
-| Evolutionary | SHADE        | 2013 | 4      | [mealpy][1]     | [mealpy][2]      |
-| Science      | WEO          | 2016 | 4      | [opytimizer][3] | [opytimizer][4]  |
-| Swarm        | COA          | 2018 | 3      | [mealpy][5]     | [mealpy][6]      |
-| Human        | QSA          | 2019 | 2      | [mealpy][7]     | [mealpy][8]      |
-| Swarm        | CS           | 2009 | 3      | [opytimizer][9] | [opytimizer][10] |
-| Evolutionary | BaseDE       | 1997 | 5      | [mealpy][11]    | [mealpy][12]     |
-| Evolutionary | SADE         | 2005 | 2      | [mealpy][13]    | [mealpy][14]     |
-| Human        | OriginalSARO | 2019 | 4      | [mealpy][15]    | [mealpy][16]     |
-| Evolutionary | JADE         | 2009 | 6      | [mealpy][17]    | [mealpy][18]     |
-|              |              |      |        |                 |                  |
-
+| Group        | Class        | Year | Params | Documents        | Source Code      |
+| ------------ | ------------ | ---- | ------ | ---------------- | ---------------- |
+| Evolutionary | JADE         | 2009 | 6      | [mealpy][17]     | [mealpy][18]     |
+| Evolutionary | SHADE        | 2013 | 4      | [mealpy][1]      | [mealpy][2]      |
+| Science      | WEO          | 2016 | 4      | [opytimizer][3]  | [opytimizer][4]  |
+| Swarm        | COA          | 2018 | 3      | [mealpy][5]      | [mealpy][6]      |
+| Human        | QSA          | 2019 | 2      | [mealpy][7]      | [mealpy][8]      |
+| Swarm        | CS           | 2009 | 3      | [opytimizer][9]  | [opytimizer][10] |
+| Evolutionary | BaseDE       | 1997 | 5      | [mealpy][11]     | [mealpy][12]     |
+| Evolutionary | SADE         | 2005 | 2      | [mealpy][13]     | [mealpy][14]     |
+| Human        | OriginalSARO | 2019 | 4      | [mealpy][15]     | [mealpy][16]     |
+| Swarm        | ABO          | 2017 | 2      | [opytimizer][19] | [opytimizer][20] |
+|              |              |      |        |                  |                  |
 
 [1]: https://mealpy.readthedocs.io/en/latest/pages/models/mealpy.evolutionary_based.html#module-mealpy.evolutionary_based.SHADE
 [2]: https://mealpy.readthedocs.io/en/latest/_modules/mealpy/evolutionary_based/SHADE.html#L_SHADE
@@ -30,3 +30,5 @@
 [16]: https://mealpy.readthedocs.io/en/latest/_modules/mealpy/human_based/SARO.html#OriginalSARO
 [17]: https://mealpy.readthedocs.io/en/latest/pages/models/mealpy.evolutionary_based.html#mealpy.evolutionary_based.DE.JADE
 [18]: https://mealpy.readthedocs.io/en/latest/_modules/mealpy/evolutionary_based/DE.html#JADE
+[19]: https://opytimizer.readthedocs.io/en/latest/api/opytimizer.optimizers.swarm.abo.html?highlight=abo
+[20]: https://github.com/gugarosa/opytimizer/blob/master/opytimizer/optimizers/swarm/abo.py
